@@ -79,7 +79,7 @@ function App() {
   }, []);
 
   const config = {
-    apiKey: "X1SiWxqiyYRmZDxw87uiAXo6QNkH8hVC",
+    apiKey: "your-api-key",
     network: Network.ETH_SEPOLIA,
   };
   
